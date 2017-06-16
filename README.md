@@ -3,3 +3,4 @@ Folded is a puzzle vague puzzle game idea that I've not yet refined enough to be
 
 
 ![old gif](folded_gif.gif)
+![recent gif](folded_gif_newer.gif)
