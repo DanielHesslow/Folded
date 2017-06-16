@@ -9,5 +9,9 @@ Here's a newer one where I've started to add some placeholder entities, collisio
 
 <img src="folded_gif_newer.gif" width="350">
 
-It runs smoothly (at ~90fps), I'm just not very good at producing high quality gifs 
+It runs smoothly (at ~90fps), I'm just not very good at producing high quality gifs.
 
+
+
+Here is a screenshot that isn't super downsampled.
+<img src="screenshot.png">
