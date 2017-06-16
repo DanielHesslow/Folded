@@ -1,6 +1,8 @@
 # Folded
 Folded is a puzzle vague puzzle game idea that I've not yet refined it enough to be able to produce interesting puzzles
 
+All assets are generated. 
+
 Here's an old gif of the main mechanic, ie folding paper.
 
 <img src="folded_gif.gif" width="350">
